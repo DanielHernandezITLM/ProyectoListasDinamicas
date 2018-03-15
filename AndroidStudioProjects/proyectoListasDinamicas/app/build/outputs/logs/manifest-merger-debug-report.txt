@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\ITLM\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\f80c770ad3d373a5ac5299e7faf6bba4\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ITLM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b6ad25c4e44069b560bf1509fc2bd049\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ITLM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\303030014869d201ede82a520603ae18\AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ITLM\.gradl
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ITLM\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7e43b28dbdffe0ec4eaee5eff930013d\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ITLM\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\85de2c91f3bda94970c0b3e59c641335\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ITLM\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d719ec2e2796996aa96e6432e8e7bcfa\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:3:5-55
 		INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:5:5-23:19
+ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\ITLM\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\f80c770ad3d373a5ac5299e7faf6bba4\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\ITLM\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\f80c770ad3d373a5ac5299e7faf6bba4\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ITLM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b6ad25c4e44069b560bf1509fc2bd049\AndroidManifest.xml:25:5-29:19
@@ -92,13 +92,9 @@ ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\m
 	android:name
 		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.example.itlm.proyectolistasdinamicas.Form
-ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:19:9-22:68
-	android:label
-		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:21:13-56
-	android:theme
-		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:22:13-56
+ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:19:9-51
 	android:name
-		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:20:13-33
+		ADDED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml:19:19-39
 uses-sdk
 INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ITLM\AndroidStudioProjects\proyectoListasDinamicas\app\src\main\AndroidManifest.xml
